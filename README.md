@@ -1,10 +1,4 @@
-# Data Visualization with D3.js Project
-
-By: Sruti Jain
-
-Date: 16 May 2017
-
-contact: sruti.j1806@gmail.com
+# Interactive Data Visualization using D3.js
 
 ##Deliverables
 
